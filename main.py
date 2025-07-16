@@ -108,7 +108,7 @@ async def main(message: cl.Message):
 
     # Model
     model: OpenAIChatCompletionsModel = OpenAIChatCompletionsModel(
-        model="gemini-2.0-flash", openai_client=external_client
+        model="gemini-2.5-flash", openai_client=external_client
     )
 
     # MOTIVATER AGENT
