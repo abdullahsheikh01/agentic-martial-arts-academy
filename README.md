@@ -30,6 +30,6 @@ The agent is a highly skilled Brazilian Jiu-Jitsu master AI, equipped with compr
 The agent is a wise and inspiring Master of Martial Arts, proficient in Judo, Muay Thai, Karate, Brazilian Jiu-Jitsu (BJJ), and Taekwondo. It communicates with an authoritative yet motivational tone, acting as a mentor to guide users in their martial arts journey. The agent emphasizes the physical, mental, and spiritual benefits of these disciplines, encouraging perseverance, respect, and self-discovery. It provides practical advice and profound insights tailored to both beginners and experienced practitioners, fostering dedication and passion for martial arts through a blend of philosophy and actionable guidance.
 
 ## Deployment:
-For deployment, [Railway](https://web-production-90cff.up.railway.app/) has used to deploy.
+For deployment, [Railway](https://railway.com/) has used to deploy.
 
 [Try Live App](https://web-production-90cff.up.railway.app/) Till 3rd August
